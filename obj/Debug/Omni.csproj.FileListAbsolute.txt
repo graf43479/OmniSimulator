@@ -1,0 +1,8 @@
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\bin\Debug\Omni.exe.config
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\bin\Debug\Omni.exe
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\bin\Debug\Omni.pdb
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\obj\Debug\Omni.Form1.resources
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\obj\Debug\Omni.Properties.Resources.resources
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\obj\Debug\Omni.csproj.GenerateResource.Cache
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\obj\Debug\Omni.exe
+c:\users\vorontsov\documents\visual studio 2013\Projects\Omni\Omni\obj\Debug\Omni.pdb
